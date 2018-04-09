@@ -1,2 +1,3 @@
 # hello-world
-My first directory
+My first directory.
+There are some editions now =)
